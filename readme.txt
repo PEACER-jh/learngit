@@ -3,4 +3,4 @@ git is a distributed version control system.
 add a new line
 create a new branch named dev
 create the second branch named featurel
-
+learn git standard
